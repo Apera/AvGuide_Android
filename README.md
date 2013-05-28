@@ -14,7 +14,7 @@ NOTES:
 * All Munch related resources inluding fonts and images are Copyright to The Munch-Museum. 
 
 
-DEPENDECIES
+Dependencies
 * ActionBarSherlock (link: http://actionbarsherlock.com/)
 * SlidingMenu (link: https://github.com/jfeinstein10/SlidingMenu)
 
